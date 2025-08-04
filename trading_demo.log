@@ -1,0 +1,306 @@
+2025-07-31 15:20:35,047 - INFO - 🚀 Starting Demo Trading Agent...
+2025-07-31 15:20:35,048 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:20:35,048 - INFO - ✅ Trading agent started successfully
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: RELIANCE - Score: 1.00
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: TCS - Score: 0.50
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.30
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: INFY - Score: -0.40
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.50
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: ITC - Score: -0.50
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: SBIN - Score: 0.50
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.30
+2025-07-31 15:20:35,048 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.50
+2025-07-31 15:20:35,048 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:20:35,048 - INFO - 🟢 Opened LONG position: RELIANCE 39 @ ₹2540.53
+2025-07-31 15:20:35,048 - INFO - 🟢 Opened LONG position: TCS 25 @ ₹3490.98
+2025-07-31 15:20:35,048 - INFO - 🟢 Opened SHORT position: ICICIBANK 90 @ ₹894.37
+2025-07-31 15:20:35,048 - INFO - 💰 Portfolio: ₹733,151.53 | 🟢 Daily P&L: ₹0.00 | 📈 Positions: 3
+2025-07-31 15:21:05,049 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: RELIANCE - Score: 1.00
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: TCS - Score: -0.50
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: HDFCBANK - Score: -1.00
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: INFY - Score: 0.50
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.30
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: ITC - Score: -0.30
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: SBIN - Score: -1.00
+2025-07-31 15:21:05,049 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:21:05,049 - INFO - 📊 Found 8 trading candidates
+2025-07-31 15:21:05,049 - INFO - 🔴 Closed position: RELIANCE 39 @ ₹2482.19 - P&L: ₹-2275.26 - Reason: Stop Loss
+2025-07-31 15:21:05,049 - INFO - 🟢 Opened LONG position: RELIANCE 33 @ ₹2504.78
+2025-07-31 15:21:05,049 - INFO - 🟢 Opened SHORT position: HDFCBANK 46 @ ₹1599.70
+2025-07-31 15:21:05,049 - INFO - 🟢 Opened SHORT position: SBIN 112 @ ₹597.55
+2025-07-31 15:21:05,049 - INFO - 💰 Portfolio: ₹606,787.40 | 🔴 Daily P&L: ₹-2,275.26 | 📈 Positions: 5
+2025-07-31 15:21:35,050 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: RELIANCE - Score: -0.50
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: TCS - Score: 0.80
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: HDFCBANK - Score: -0.50
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: INFY - Score: 0.30
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: HINDUNILVR - Score: -1.00
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: ITC - Score: 0.40
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: SBIN - Score: -0.30
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.30
+2025-07-31 15:21:35,050 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:21:35,050 - INFO - 📊 Found 9 trading candidates
+2025-07-31 15:21:35,050 - INFO - 🟢 Opened SHORT position: HINDUNILVR 24 @ ₹2456.49
+2025-07-31 15:21:35,050 - INFO - 💰 Portfolio: ₹547,831.64 | 🔴 Daily P&L: ₹-2,275.26 | 📈 Positions: 6
+2025-07-31 15:22:05,050 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: RELIANCE - Score: -0.40
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: TCS - Score: -0.40
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: HDFCBANK - Score: -0.30
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: INFY - Score: -0.30
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.50
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.30
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: ITC - Score: 0.30
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: SBIN - Score: 0.50
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.30
+2025-07-31 15:22:05,051 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:22:05,051 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:22:05,051 - INFO - 🔴 Closed position: ICICIBANK 90 @ ₹913.98 - P&L: ₹-1764.90 - Reason: Stop Loss
+2025-07-31 15:22:05,051 - INFO - 🔴 Closed position: HINDUNILVR 24 @ ₹2520.10 - P&L: ₹-1526.64 - Reason: Stop Loss
+2025-07-31 15:22:05,051 - INFO - 🟢 Opened SHORT position: ICICIBANK 77 @ ₹891.11
+2025-07-31 15:22:05,051 - INFO - 💰 Portfolio: ₹621,956.77 | 🔴 Daily P&L: ₹-5,566.80 | 📈 Positions: 5
+2025-07-31 15:22:35,051 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: RELIANCE - Score: 0.50
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: TCS - Score: 1.00
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.30
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: INFY - Score: -0.40
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: ICICIBANK - Score: 1.00
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: ITC - Score: -1.00
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.50
+2025-07-31 15:22:35,052 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.50
+2025-07-31 15:22:35,052 - INFO - 📊 Found 9 trading candidates
+2025-07-31 15:22:35,052 - INFO - 🔴 Closed position: SBIN 112 @ ₹609.79 - P&L: ₹-1370.88 - Reason: Stop Loss
+2025-07-31 15:22:35,052 - INFO - 🔴 Closed position: ICICIBANK 77 @ ₹916.07 - P&L: ₹-1921.92 - Reason: Stop Loss
+2025-07-31 15:22:35,052 - INFO - 🟢 Opened LONG position: ICICIBANK 85 @ ₹894.78
+2025-07-31 15:22:35,052 - INFO - 🟢 Opened SHORT position: ITC 167 @ ₹407.64
+2025-07-31 15:22:35,052 - INFO - 💰 Portfolio: ₹616,658.46 | 🔴 Daily P&L: ₹-8,859.60 | 📈 Positions: 5
+2025-07-31 15:23:05,052 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:23:05,052 - INFO - ✅ Found candidate: RELIANCE - Score: 0.30
+2025-07-31 15:23:05,052 - INFO - ✅ Found candidate: TCS - Score: -0.50
+2025-07-31 15:23:05,052 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.30
+2025-07-31 15:23:05,052 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:23:05,052 - INFO - ✅ Found candidate: ITC - Score: 0.40
+2025-07-31 15:23:05,053 - INFO - ✅ Found candidate: SBIN - Score: 1.00
+2025-07-31 15:23:05,053 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.40
+2025-07-31 15:23:05,053 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.50
+2025-07-31 15:23:05,053 - INFO - 📊 Found 8 trading candidates
+2025-07-31 15:23:05,053 - INFO - 🟢 Closed position: ITC 167 @ ₹392.15 - P&L: ₹2586.83 - Reason: Take Profit
+2025-07-31 15:23:05,053 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:23:05,053 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:23:35,053 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: RELIANCE - Score: 0.50
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: TCS - Score: -0.80
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.40
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: INFY - Score: -0.80
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.50
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.30
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: ITC - Score: -0.30
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: SBIN - Score: 0.50
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.80
+2025-07-31 15:23:35,053 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.50
+2025-07-31 15:23:35,054 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:23:35,054 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:23:35,054 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:24:05,054 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: RELIANCE - Score: -0.30
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: TCS - Score: -0.30
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.30
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: INFY - Score: 1.00
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.50
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.50
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: ITC - Score: -0.50
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: SBIN - Score: -0.30
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.80
+2025-07-31 15:24:05,054 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:24:05,054 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:24:05,054 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:24:05,054 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:24:35,055 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: RELIANCE - Score: -0.50
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: TCS - Score: -0.50
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.80
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: INFY - Score: 0.80
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.40
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.30
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: ITC - Score: -0.50
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: SBIN - Score: 0.50
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.50
+2025-07-31 15:24:35,055 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.30
+2025-07-31 15:24:35,055 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:24:35,056 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:24:35,056 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:25:05,056 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: RELIANCE - Score: 0.50
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: TCS - Score: 0.50
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: HDFCBANK - Score: 1.00
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: INFY - Score: 0.30
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.50
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: SBIN - Score: -0.50
+2025-07-31 15:25:05,056 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.40
+2025-07-31 15:25:05,056 - INFO - 📊 Found 8 trading candidates
+2025-07-31 15:25:05,056 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:25:05,056 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:25:35,057 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: RELIANCE - Score: 0.50
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: TCS - Score: -0.30
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.50
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: INFY - Score: -0.50
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.50
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: ITC - Score: -0.50
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: SBIN - Score: -0.50
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.30
+2025-07-31 15:25:35,057 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.30
+2025-07-31 15:25:35,057 - INFO - 📊 Found 9 trading candidates
+2025-07-31 15:25:35,058 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:25:35,058 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:26:05,058 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: TCS - Score: -0.80
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: HDFCBANK - Score: -1.00
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: INFY - Score: 0.30
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: ICICIBANK - Score: -1.00
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: ITC - Score: -0.30
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: SBIN - Score: 1.00
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.30
+2025-07-31 15:26:05,058 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:26:05,058 - INFO - 📊 Found 8 trading candidates
+2025-07-31 15:26:05,058 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:26:05,058 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:26:35,059 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: RELIANCE - Score: -0.40
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: TCS - Score: 1.00
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: INFY - Score: 0.30
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.30
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.50
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: ITC - Score: 0.40
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: SBIN - Score: -0.30
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.30
+2025-07-31 15:26:35,059 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.30
+2025-07-31 15:26:35,059 - INFO - 📊 Found 9 trading candidates
+2025-07-31 15:26:35,059 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:26:35,059 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:27:05,059 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: RELIANCE - Score: 0.80
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: INFY - Score: 0.30
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.30
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.30
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: ITC - Score: 0.50
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: SBIN - Score: 0.30
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.30
+2025-07-31 15:27:05,060 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:27:05,060 - INFO - 📊 Found 8 trading candidates
+2025-07-31 15:27:05,060 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:27:05,060 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:27:35,060 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:27:35,060 - INFO - ✅ Found candidate: RELIANCE - Score: 1.00
+2025-07-31 15:27:35,060 - INFO - ✅ Found candidate: INFY - Score: 0.30
+2025-07-31 15:27:35,060 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.30
+2025-07-31 15:27:35,060 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:27:35,060 - INFO - ✅ Found candidate: ITC - Score: -0.50
+2025-07-31 15:27:35,061 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.40
+2025-07-31 15:27:35,061 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.40
+2025-07-31 15:27:35,061 - INFO - 📊 Found 7 trading candidates
+2025-07-31 15:27:35,061 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:27:35,061 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:28:05,061 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:28:05,061 - INFO - ✅ Found candidate: RELIANCE - Score: -0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: TCS - Score: -0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: INFY - Score: -0.40
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: ICICIBANK - Score: -1.00
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: ITC - Score: 0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: SBIN - Score: 0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.50
+2025-07-31 15:28:05,062 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.50
+2025-07-31 15:28:05,062 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:28:05,062 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:28:05,062 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:28:35,062 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: RELIANCE - Score: 0.50
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: TCS - Score: 0.30
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: HDFCBANK - Score: -0.50
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: INFY - Score: 1.00
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.40
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: ITC - Score: 0.30
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: SBIN - Score: -0.50
+2025-07-31 15:28:35,062 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.30
+2025-07-31 15:28:35,062 - INFO - 📊 Found 9 trading candidates
+2025-07-31 15:28:35,063 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:28:35,063 - INFO - 💰 Portfolio: ₹682,147.51 | 🔴 Daily P&L: ₹-6,272.77 | 📈 Positions: 4
+2025-07-31 15:29:05,063 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: RELIANCE - Score: -0.40
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: TCS - Score: 0.30
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.30
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: INFY - Score: -0.30
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: ICICIBANK - Score: -0.40
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: HINDUNILVR - Score: 1.00
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: ITC - Score: 0.50
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: SBIN - Score: -0.30
+2025-07-31 15:29:05,063 - INFO - ✅ Found candidate: KOTAKBANK - Score: -0.80
+2025-07-31 15:29:05,063 - INFO - 📊 Found 9 trading candidates
+2025-07-31 15:29:05,063 - INFO - 🔴 Closed position: HDFCBANK 46 @ ₹1631.74 - P&L: ₹-1473.84 - Reason: Stop Loss
+2025-07-31 15:29:05,063 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:29:05,063 - INFO - 💰 Portfolio: ₹757,207.55 | 🔴 Daily P&L: ₹-7,746.61 | 📈 Positions: 3
+2025-07-31 15:29:35,063 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: RELIANCE - Score: -0.30
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: TCS - Score: -0.50
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.50
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: INFY - Score: 1.00
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.80
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.30
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: ITC - Score: 0.30
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: SBIN - Score: -0.80
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: BHARTIARTL - Score: -0.30
+2025-07-31 15:29:35,064 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.50
+2025-07-31 15:29:35,064 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:29:35,064 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:29:35,064 - INFO - 💰 Portfolio: ₹757,207.55 | 🔴 Daily P&L: ₹-7,746.61 | 📈 Positions: 3
+2025-07-31 15:30:05,064 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:30:05,064 - INFO - ✅ Found candidate: RELIANCE - Score: -0.50
+2025-07-31 15:30:05,064 - INFO - ✅ Found candidate: TCS - Score: 0.80
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.50
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: INFY - Score: -0.50
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.50
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: HINDUNILVR - Score: 0.50
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: ITC - Score: -0.30
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: SBIN - Score: 0.50
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.30
+2025-07-31 15:30:05,065 - INFO - ✅ Found candidate: KOTAKBANK - Score: 1.00
+2025-07-31 15:30:05,065 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:30:05,065 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:30:05,065 - INFO - 💰 Portfolio: ₹757,207.55 | 🔴 Daily P&L: ₹-7,746.61 | 📈 Positions: 3
+2025-07-31 15:30:35,065 - INFO - 🔍 Scanning market for opportunities...
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: RELIANCE - Score: 1.00
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: TCS - Score: -0.30
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: HDFCBANK - Score: 0.50
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: INFY - Score: 0.80
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: ICICIBANK - Score: 0.50
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: HINDUNILVR - Score: -0.50
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: ITC - Score: 0.30
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: SBIN - Score: -0.50
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: BHARTIARTL - Score: 0.80
+2025-07-31 15:30:35,065 - INFO - ✅ Found candidate: KOTAKBANK - Score: 0.30
+2025-07-31 15:30:35,065 - INFO - 📊 Found 10 trading candidates
+2025-07-31 15:30:35,065 - WARNING - ⚠️  Daily trade limit reached
+2025-07-31 15:30:35,065 - INFO - 💰 Portfolio: ₹757,207.55 | 🔴 Daily P&L: ₹-7,746.61 | 📈 Positions: 3
+2025-07-31 15:31:05,066 - INFO - ⏰ Market is closed
+2025-07-31 15:31:35,066 - INFO - ⏰ Market is closed
+2025-07-31 15:32:05,066 - INFO - ⏰ Market is closed
+2025-07-31 15:32:35,067 - INFO - ⏰ Market is closed
+2025-07-31 15:33:05,067 - INFO - ⏰ Market is closed
+2025-07-31 15:33:35,068 - INFO - ⏰ Market is closed
+2025-07-31 15:34:05,068 - INFO - ⏰ Market is closed
+2025-07-31 15:34:35,068 - INFO - ⏰ Market is closed
+2025-07-31 15:35:05,069 - INFO - ⏰ Market is closed
+2025-07-31 15:35:35,069 - INFO - ⏰ Market is closed
+2025-07-31 15:35:35,125 - INFO - 🛑 Stopping Trading Agent...
+2025-07-31 15:35:35,125 - INFO - 🟢 Closed position: TCS 25 @ ₹3565.36 - P&L: ₹1859.50 - Reason: End of Day
+2025-07-31 15:35:35,125 - INFO - 🟢 Closed position: RELIANCE 33 @ ₹2517.40 - P&L: ₹416.46 - Reason: End of Day
+2025-07-31 15:35:35,125 - INFO - 🟢 Closed position: ICICIBANK 85 @ ₹897.95 - P&L: ₹269.45 - Reason: End of Day
+2025-07-31 15:36:05,113 - INFO - 🚀 Starting Demo Trading Agent...
+2025-07-31 15:36:05,113 - INFO - ⏰ Market is closed
+2025-07-31 15:36:05,113 - INFO - ✅ Trading agent started successfully
